@@ -51,7 +51,7 @@ public class AsyncSFTPDownload {
         }
 
         CompletableFuture<Void> voidCompletableFuture = CompletableFuture.allOf(downloadFutures);
-        voidCompletableFuture.join();
+       // voidCompletableFuture.join();
         boolean match = Arrays.stream(downloadFutures).allMatch(CompletableFuture::join);
 
         if (match) {
