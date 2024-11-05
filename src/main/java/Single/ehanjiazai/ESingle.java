@@ -4,10 +4,9 @@ public class ESingle {
     private static ESingle eSingle = new ESingle();
 
     private ESingle() {
-
     }
 
-    public ESingle get() {
+    public static ESingle get() {
         return eSingle;
     }
 }
