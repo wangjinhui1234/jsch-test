@@ -12,6 +12,7 @@ public class Test {
         int i = totalFruit(arr);
         System.out.println(i);
         LinkedList<String> str = new LinkedList<>();
+        System.out.println();
 
     }
 
