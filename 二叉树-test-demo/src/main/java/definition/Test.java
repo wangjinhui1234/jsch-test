@@ -1,17 +1,73 @@
 package definition;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.Date;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Map;
 import java.util.Stack;
+import java.util.stream.Stream;
 
 public class Test {
     public static void main(String[] args) {
         int[] arr = {3, 3, 3, 1, 2, 1, 1, 2, 3, 3, 4};
+        String s = "";
+        s.length();
+        char[] chars = s.toCharArray();
+        StringBuilder sb = new StringBuilder();
+        ArrayList<Object> list = new ArrayList<>();
+        for (int i = 0; i < arr.length; i++) {
+
+        }
+
+        sb.append("").append("");
+        HashSet<Integer> set = new HashSet<Integer>();
+
+        set.add(1);
+        for (Object s1 : set
+        ) {
+
+            System.out.println(s1);
+        }
+        set.stream().mapToInt(x -> x).toArray();
+
+        HashMap<String, String> map = new HashMap<>();
+
+
+        //map.put(1,map.getOrDefault(1,""));
+        map.put("d", "d");
+        map.put("ee", "df");
+        Collection<String> values = map.values();
+        for (String va : values
+        ) {
+            System.out.println(va);
+        }
+        for (int i = 0; i < 5; i++) {
+
+        }
+        for (int i = 0; i < 5; i++) {
+            // Arrays.stream(arr).collect();
+        }
+        Person person = new Person("DD", 11, null);
+        Date date = person.getDate();
+        System.out.println();
+        System.out.println(date);
+        System.out.println("=================================================");
+
         int i = totalFruit(arr);
-        System.out.println(i);
-        LinkedList<String> str = new LinkedList<>();
+        try {
+            System.out.println(i);
+            LinkedList<String> str = new LinkedList<>();
+            Long l = null;
+            // long s = l / 1000;
+        } catch (Exception e) {
+            System.out.println(e);
+        }
         System.out.println();
 
     }
