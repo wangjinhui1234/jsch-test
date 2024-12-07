@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc955f97-665a-4f9f-b562-1c835e3ae493" name="Default Changelist" comment="文件压缩 ， 面试基础学习">
-      <change afterPath="$PROJECT_DIR$/../git-hub-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../git-hub-test/src/main/java/com/huina/demo/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-hub-test/src/main/java/com/huina/demo/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../git-hub-test/src/main/java/com/huina/demo/Test01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +193,7 @@
       <workItem from="1732865622391" duration="4205000" />
       <workItem from="1733028393257" duration="4466000" />
       <workItem from="1733277018700" duration="22991000" />
-      <workItem from="1733574574842" duration="9017000" />
+      <workItem from="1733574574842" duration="9634000" />
     </task>
     <task id="LOCAL-00001" summary="git command();">
       <created>1726379151503</created>
