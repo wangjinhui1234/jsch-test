@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="动态代理-unit-test" />
+        <module name="git-hub-test" />
+        <module name="upload-test-02" />
+        <module name="二叉树-test-demo" />
+        <module name="long-test-01" />
+        <module name="spring-setter-injection-example" />
+        <module name="bean-unit-test-bean" />
+        <module name="链表-test-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bean-unit-test-bean" target="8" />
+      <module name="bean-unit-test-bean创建和注入" target="8" />
+      <module name="bean-unit-test-创建-注入" target="8" />
+      <module name="git-hub-test" target="8" />
+      <module name="long-test-01" target="8" />
+      <module name="spring-setter-injection-example" target="8" />
+      <module name="upload-test-01" target="8" />
+      <module name="upload-test-02" target="8" />
+      <module name="二叉树-test-demo" target="8" />
+      <module name="动态代理-unit-test" target="8" />
+      <module name="链表-test-demo" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

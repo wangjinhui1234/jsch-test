@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../spring-setter-injection-example/pom.xml" />
+        <option value="$PROJECT_DIR$/../../upload-test-02/pom.xml" />
+        <option value="$PROJECT_DIR$/../../bean-unit-test-bean创建和注入/pom.xml" />
+        <option value="$PROJECT_DIR$/../../bean-unit-test-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/../../动态代理-unit-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../../二叉树-test-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../链表-test-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../bean-unit-test-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/../upload-test-02/pom.xml" />
+        <option value="$PROJECT_DIR$/../二叉树-test-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../动态代理-unit-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../链表-test-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-setter-injection-example/pom.xml" />
+        <option value="$PROJECT_DIR$/../long-test-01/pom.xml" />
+        <option value="$PROJECT_DIR$/../git-hub-test/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

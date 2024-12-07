@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bean-unit-test-bean/bean-unit-test-bean.iml" filepath="$PROJECT_DIR$/../bean-unit-test-bean/bean-unit-test-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git-hub-test/git-hub-test.iml" filepath="$PROJECT_DIR$/../git-hub-test/git-hub-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../long-test-01/long-test-01.iml" filepath="$PROJECT_DIR$/../long-test-01/long-test-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-setter-injection-example/spring-setter-injection-example.iml" filepath="$PROJECT_DIR$/../spring-setter-injection-example/spring-setter-injection-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../upload-test-02/upload-test-02.iml" filepath="$PROJECT_DIR$/../upload-test-02/upload-test-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../二叉树-test-demo/二叉树-test-demo.iml" filepath="$PROJECT_DIR$/../二叉树-test-demo/二叉树-test-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../动态代理-unit-test/动态代理-unit-test.iml" filepath="$PROJECT_DIR$/../动态代理-unit-test/动态代理-unit-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../链表-test-demo/链表-test-demo.iml" filepath="$PROJECT_DIR$/../链表-test-demo/链表-test-demo.iml" />
+    </modules>
+  </component>
+</project>
